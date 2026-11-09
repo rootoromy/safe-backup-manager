@@ -1,0 +1,7 @@
+*.zip
+sbm-backups*/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+/vendor/
